@@ -1,0 +1,2 @@
+# requirejs
+for study requirejs
